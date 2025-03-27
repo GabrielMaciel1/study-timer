@@ -4,6 +4,9 @@ Este projeto é uma ferramenta desenvolvida com **Next.js** e **TailwindCSS** pa
 
 ---
 
+## 🌐 Live Demo  
+Acesse a aplicação em: [study-timer-one.vercel.app](https://study-timer-one.vercel.app/timer)
+
 ## 📝 Funcionalidades Principais
 
 - **Cronômetro Funcional**:

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --primary-color: #6b46c1;
+  --secondary-color: #9f7aea;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #9f7aea;
+    --secondary-color: #6b46c1;
+  }
+}
+
+body {
+  @apply bg-gray-100 text-gray-900;
+  font-family: 'Inter', sans-serif;
+}
+
